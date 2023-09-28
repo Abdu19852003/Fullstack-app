@@ -1,4 +1,4 @@
-const URL = "https://app-fullstack-g82y.onrender.com";
+const URL = "https://app-fullstack-g82y.onrender.com/tasks";
 
 export const createTask = async (data) => {
   try {
